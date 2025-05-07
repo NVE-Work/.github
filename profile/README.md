@@ -1,4 +1,4 @@
-# NeoVista Equities
+# NVE
 
 **Private Opportunistic Fund | Real Estate & Private Equity Investments**  
 📍 Long Island, NY | 🏢 Regional HQ: Albany, NY
@@ -7,7 +7,7 @@
 
 ## About Us
 
-NeoVista Equities LLC is a newly established private opportunistic fund based in Long Island, New York, with its regional headquarters in Albany.  
+we are a newly established private opportunistic fund based in Long Island, New York, with its regional headquarters in Albany.  
 We are dedicated to:
 
 - Revitalizing communities through strategic real estate acquisition  
@@ -18,7 +18,7 @@ We are dedicated to:
 
 ## What You'll Find Here
 
-This GitHub organization hosts the technology and software powering NeoVista's operations and initiatives:
+This GitHub organization hosts the technology and software powering our operations and initiatives:
 
 - Internal platforms for property and asset management  
 - Market research and data tools  
@@ -37,7 +37,6 @@ To build better neighborhoods and create long-term value for our investors and t
 
 For inquiries, collaboration, or investment interest:  
 📧 [info@neovistaequities.com](mailto:info@neovistaequities.com)  
-🌐 [www.neovistaequities.com](https://www.neovistaequities.com)
 
 ---
 
