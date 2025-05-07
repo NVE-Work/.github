@@ -1,4 +1,4 @@
-# NeoVista Equities LLC
+# NeoVista Equities
 
 **Private Opportunistic Fund | Real Estate & Private Equity Investments**  
 📍 Long Island, NY | 🏢 Regional HQ: Albany, NY
