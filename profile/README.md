@@ -33,11 +33,4 @@ To build better neighborhoods and create long-term value for our investors and t
 
 ---
 
-## Contact
-
-For inquiries, collaboration, or investment interest:  
-📧 [info@neovistaequities.com](mailto:info@neovistaequities.com)  
-
----
-
 > *“Investing in community. Building with purpose.”*
